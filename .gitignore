@@ -1,0 +1,16 @@
+# Ignore API Keys
+.streamlit/secrets.toml
+
+# Ignore Virtual Environment (Bahut bhaari hota hai)
+venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Temporary Audio Files
+*.mp3
+
+# Ignore OS files
+.DS_Store
