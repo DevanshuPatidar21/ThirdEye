@@ -1,6 +1,6 @@
 # 👁️ The Third Eye: AI Assistant for Visually Impaired
 
-This project uses **Gemini 1.5 Flash** and **Voice Commands** to help blind people navigate, read text, and find objects.
+This project uses **Gemini 2.5 Flash** and **Voice Commands** to help blind people navigate, read text, and find objects.
 
 ## 🚀 Features
 - **Navigation Mode:** Detects obstacles and hazards.
